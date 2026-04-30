@@ -1,6 +1,9 @@
 [中文](./README.md) | [English](./README.en.md)
 
-<!-- Hero banner will be added in Task 2 -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:eff6ff,100:dbeafe&height=220&section=header&text=Bujidao&fontSize=42&fontColor=1f2937&animation=fadeIn&desc=Make%20it%20happen!&descSize=18&descAlignY=66"
+  width="100%"
+/>
 
 ## Hi there
 
@@ -26,11 +29,24 @@ Test -> DevOps -> Security -> Frontend -> Python -> Rust -> AI -> Design -> Prod
 
 ## GitHub Stats
 
-<!-- Stats cards will be added in Task 2 -->
+<p>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=itkdm&show_icons=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=4b5563&bg_color=00000000&rank_icon=github"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkdm&layout=compact&hide_border=true&title_color=2f80ed&text_color=4b5563&bg_color=00000000&langs_count=6&size_weight=0.5&count_weight=0.5"
+  />
+</p>
 
 ## Skills
 
-<!-- Skill icons will be added in Task 2 -->
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=java,spring,docker,linux,ts,react,python,rust,githubactions&perline=9"
+  />
+</p>
 
 ## Contact
 
