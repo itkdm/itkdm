@@ -20,6 +20,21 @@
 
 ### [open-lab-components](https://github.com/itkdm/open-lab-components)
 
+<p>
+  <a href="https://github.com/itkdm/open-lab-components">
+    <img alt="Repo badge" src="https://img.shields.io/badge/Repo-open--lab--components-2563eb?style=flat-square&logo=github" />
+  </a>
+  <a href="https://olc.itkdm.com">
+    <img alt="Demo badge" src="https://img.shields.io/badge/Demo-olc.itkdm.com-0f766e?style=flat-square" />
+  </a>
+  <a href="https://github.com/itkdm/open-lab-components/tree/main/docs">
+    <img alt="Docs badge" src="https://img.shields.io/badge/Docs-Project%20Docs-475569?style=flat-square" />
+  </a>
+  <a href="https://github.com/itkdm/open-lab-components/issues">
+    <img alt="Feedback badge" src="https://img.shields.io/badge/Feedback-Issues-f59e0b?style=flat-square&logo=github" />
+  </a>
+</p>
+
 `open-lab-components` 是我在长期投入的一个开源项目，试着把教育、前端组件、AI 和系统设计放到同一个语境里。
 
 它不是一个技术含量很高、靠炫技取胜的项目，但我相信它有很实际的价值：让内容更有趣，让交互更易理解，让组件更可复用，也让一个想法真正经历从设计到实现、再到打磨的完整产品构建过程。
@@ -64,4 +79,4 @@
 ## 联系方式
 
 - 网站: https://itkdm.com
-- 邮箱: 3317431882@qq.com
+- 邮箱: contact@itkdm.com

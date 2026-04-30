@@ -17,6 +17,21 @@ I want to make boring things interesting, make complex things clear, and solve r
 
 ### [open-lab-components](https://github.com/itkdm/open-lab-components)
 
+<p>
+  <a href="https://github.com/itkdm/open-lab-components">
+    <img alt="Repo badge" src="https://img.shields.io/badge/Repo-open--lab--components-2563eb?style=flat-square&logo=github" />
+  </a>
+  <a href="https://olc.itkdm.com">
+    <img alt="Demo badge" src="https://img.shields.io/badge/Demo-olc.itkdm.com-0f766e?style=flat-square" />
+  </a>
+  <a href="https://github.com/itkdm/open-lab-components/tree/main/docs">
+    <img alt="Docs badge" src="https://img.shields.io/badge/Docs-Project%20Docs-475569?style=flat-square" />
+  </a>
+  <a href="https://github.com/itkdm/open-lab-components/issues">
+    <img alt="Feedback badge" src="https://img.shields.io/badge/Feedback-Issues-f59e0b?style=flat-square&logo=github" />
+  </a>
+</p>
+
 `open-lab-components` is a long-term open-source project I have been building over time, where education, frontend components, AI, and system thinking come together.
 
 What matters to me is not showing off technical tricks, but creating something genuinely useful: making content more engaging, interactions easier to understand, components easier to reuse, and carrying an idea through the full process of building a complete product.
@@ -61,4 +76,4 @@ A quick snapshot of my public GitHub activity and language mix.
 ## Contact
 
 - Website: https://itkdm.com
-- Email: 3317431882@qq.com
+- Email: contact@itkdm.com
