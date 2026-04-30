@@ -28,11 +28,11 @@
 
 ## 探索路径
 
-`Test -> DevOps -> Security -> Frontend -> Python -> Rust -> AI -> Design -> Product`
+`测试 -> DevOps -> 安全 -> 前端 -> Python -> Rust -> AI -> 设计 -> 产品`
 
 ## GitHub 数据
 
-一些公开的 GitHub 活动与常用语言分布。
+公开的 GitHub 活动与常用语言分布。
 
 <p align="center">
   <img
