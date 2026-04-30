@@ -23,6 +23,11 @@ What matters to me is not showing off technical tricks, but creating something g
 
 To me, it is more than a component library. It is an ongoing way of turning ideas into real products.
 
+### More Projects
+
+- [Agent-Remote-Bridge](https://github.com/itkdm/Agent-Remote-Bridge): A standard MCP server that brings remote Linux server capabilities into a local agent workflow, replacing manual SSH switching with a more controlled bridge.
+- [side-lying-monitor](https://github.com/itkdm/side-lying-monitor): A posture-aware mobile app that detects side-lying phone usage and gives health reminders to help reduce strain from long sessions.
+
 ## Exploration Path
 
 `Test -> DevOps -> Security -> Frontend -> Python -> Rust -> AI -> Design -> Product`

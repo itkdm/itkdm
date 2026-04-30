@@ -26,6 +26,11 @@
 
 对我来说，它不只是一些组件，更是一条持续把想法做成产品的实践路径。
 
+### 更多项目
+
+- [Agent-Remote-Bridge](https://github.com/itkdm/Agent-Remote-Bridge)：一个标准 MCP Server，把远程 Linux 服务器能力接入本地 Agent，用更受控的方式替代手动 SSH 来回切换。
+- [side-lying-monitor](https://github.com/itkdm/side-lying-monitor)：一个智能侧躺监测与健康提醒应用，通过姿态监测和提醒机制，帮助减少长时间侧躺使用手机带来的身体负担。
+
 ## 探索路径
 
 `测试 -> DevOps -> 安全 -> 前端 -> Python -> Rust -> AI -> 设计 -> 产品`
