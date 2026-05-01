@@ -40,8 +40,20 @@ To me, it is more than a component library. It is an ongoing way of turning idea
 
 ### More Projects
 
-- [Agent-Remote-Bridge](https://github.com/itkdm/Agent-Remote-Bridge): A standard MCP server that brings remote Linux server capabilities into a local agent workflow, replacing manual SSH switching with a more controlled bridge.
-- [side-lying-monitor](https://github.com/itkdm/side-lying-monitor): A posture-aware mobile app that detects side-lying phone usage and gives health reminders to help reduce strain from long sessions.
+<p align="center">
+  <a href="https://github.com/itkdm/Agent-Remote-Bridge">
+    <img
+      alt="Agent-Remote-Bridge repository card"
+      src="https://github-readme-stats-chi-three-19.vercel.app/api/pin/?username=itkdm&repo=Agent-Remote-Bridge&show_owner=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=4b5563&bg_color=00000000"
+    />
+  </a>
+  <a href="https://github.com/itkdm/side-lying-monitor">
+    <img
+      alt="side-lying-monitor repository card"
+      src="https://github-readme-stats-chi-three-19.vercel.app/api/pin/?username=itkdm&repo=side-lying-monitor&show_owner=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=4b5563&bg_color=00000000"
+    />
+  </a>
+</p>
 
 ## Exploration Path
 

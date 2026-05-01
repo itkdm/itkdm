@@ -43,8 +43,20 @@
 
 ### 更多项目
 
-- [Agent-Remote-Bridge](https://github.com/itkdm/Agent-Remote-Bridge)：一个标准 MCP Server，把远程 Linux 服务器能力接入本地 Agent，用更受控的方式替代手动 SSH 来回切换。
-- [side-lying-monitor](https://github.com/itkdm/side-lying-monitor)：一个智能侧躺监测与健康提醒应用，通过姿态监测和提醒机制，帮助减少长时间侧躺使用手机带来的身体负担。
+<p align="center">
+  <a href="https://github.com/itkdm/Agent-Remote-Bridge">
+    <img
+      alt="Agent-Remote-Bridge repository card"
+      src="https://github-readme-stats-chi-three-19.vercel.app/api/pin/?username=itkdm&repo=Agent-Remote-Bridge&show_owner=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=4b5563&bg_color=00000000"
+    />
+  </a>
+  <a href="https://github.com/itkdm/side-lying-monitor">
+    <img
+      alt="side-lying-monitor repository card"
+      src="https://github-readme-stats-chi-three-19.vercel.app/api/pin/?username=itkdm&repo=side-lying-monitor&show_owner=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=4b5563&bg_color=00000000"
+    />
+  </a>
+</p>
 
 ## 探索路径
 
