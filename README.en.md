@@ -15,9 +15,11 @@ I want to make boring things interesting, make complex things clear, and solve r
 
 ## Featured Project
 
-### [open-lab-components](https://github.com/itkdm/open-lab-components)
+<h3 align="center">
+  <a href="https://github.com/itkdm/open-lab-components">open-lab-components</a>
+</h3>
 
-<p>
+<p align="center">
   <a href="https://github.com/itkdm/open-lab-components">
     <img alt="Repo badge" src="https://img.shields.io/badge/Repo-open--lab--components-2563eb?style=flat-square&logo=github" />
   </a>
