@@ -58,12 +58,12 @@
   <img
     alt="GitHub activity stats"
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=itkdm&show_icons=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=4b5563&bg_color=00000000&rank_icon=github"
+    src="https://github-readme-stats-chi-three-19.vercel.app/api?username=itkdm&show_icons=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&text_color=4b5563&bg_color=00000000&rank_icon=github"
   />
   <img
     alt="Top programming languages"
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itkdm&layout=compact&hide_border=true&title_color=2f80ed&text_color=4b5563&bg_color=00000000&langs_count=6&size_weight=0.5&count_weight=0.5"
+    src="https://github-readme-stats-chi-three-19.vercel.app/api/top-langs/?username=itkdm&layout=compact&hide_border=true&title_color=2f80ed&text_color=4b5563&bg_color=00000000&langs_count=6&size_weight=0.5&count_weight=0.5"
   />
 </p>
 
